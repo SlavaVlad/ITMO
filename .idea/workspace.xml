@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5b4927e-813d-4338-a53c-404876477fc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+    <list default="true" id="b5b4927e-813d-4338-a53c-404876477fc6" name="Changes" comment="Лабораторная по проге №1 выполнена&#10;Которая про сборку программы в консоли и выполнение на helios. &#10;И про Java.Math&#10;Я честно-честно делал её в блокноте.&#10;В IDE просто причесал немного и добавил комментариев чтобы не плодить их в отчёте">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +46,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663501415161</updated>
-      <workItem from="1663501416698" duration="628000" />
+      <workItem from="1663501416698" duration="1272000" />
     </task>
+    <task id="LOCAL-00001" summary="Лабораторная по проге №1 выполнена&#10;Которая про сборку программы в консоли и выполнение на helios. &#10;И про Java.Math&#10;Я честно-честно делал её в блокноте.&#10;В IDE просто причесал немного и добавил комментариев чтобы не плодить их в отчёте">
+      <created>1663502288771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663502288771</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Лабораторная по проге №1 выполнена&#10;Которая про сборку программы в консоли и выполнение на helios. &#10;И про Java.Math&#10;Я честно-честно делал её в блокноте.&#10;В IDE просто причесал немного и добавил комментариев чтобы не плодить их в отчёте" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лабораторная по проге №1 выполнена&#10;Которая про сборку программы в консоли и выполнение на helios. &#10;И про Java.Math&#10;Я честно-честно делал её в блокноте.&#10;В IDE просто причесал немного и добавил комментариев чтобы не плодить их в отчёте" />
   </component>
 </project>

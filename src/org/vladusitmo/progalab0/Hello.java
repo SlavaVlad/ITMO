@@ -1,3 +1,5 @@
+package org.vladusitmo.progalab0;
+
 import java.text.DecimalFormat;
 import java.util.Random;
 
