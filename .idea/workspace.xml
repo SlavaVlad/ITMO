@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lab0" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5b4927e-813d-4338-a53c-404876477fc6" name="Changes" comment="Поместил файл в пакет org.vladusitmo.progalab0" />
+    <list default="true" id="b5b4927e-813d-4338-a53c-404876477fc6" name="Changes" comment="Собрал в консоли файлик jar">
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/vladusitmo/progalab0/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/progalab0/Hello.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,9 +44,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "last_opened_file_path": "S:/Projects/ITMO/Programming/Labs/First - Basics of Java development/Lab0",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +58,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663501415161</updated>
-      <workItem from="1663501416698" duration="1696000" />
+      <workItem from="1663501416698" duration="1775000" />
+      <workItem from="1663503577945" duration="597000" />
+      <workItem from="1663506583881" duration="807000" />
+      <workItem from="1663507632745" duration="123000" />
+      <workItem from="1663508207039" duration="436000" />
+      <workItem from="1663508682015" duration="1548000" />
     </task>
     <task id="LOCAL-00001" summary="Лабораторная по проге №1 выполнена&#10;Которая про сборку программы в консоли и выполнение на helios. &#10;И про Java.Math&#10;Я честно-честно делал её в блокноте.&#10;В IDE просто причесал немного и добавил комментариев чтобы не плодить их в отчёте">
       <created>1663502288771</created>
@@ -63,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663502888600</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Поместил файл в пакет org.vladusitmo.progalab0">
+      <created>1663503188846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663503188846</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
